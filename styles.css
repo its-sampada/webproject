@@ -1,0 +1,37 @@
+body{
+    background-color:#86626E
+    }
+    
+    #title, #description, #survey-form, #dropdown{
+      text-align: center;
+      color: #231C07
+    }
+    
+    input, #experience, #suggestion, #dropdown{
+    background-color: #e5ccc6
+    }
+    
+    input[type="radio"]
+    {
+      accent-color: #e5ccc6
+    }
+    
+    input[type="checkbox"]
+    {
+      accent-color: #e5ccc6
+    }
+    
+    fieldset{
+      line-height: 30px;
+      border: 4px double #432818;
+      border-radius: 10px;
+      height: 720px;
+      width: 500px;
+      /* padding: 25px; */
+      /* margin-left: 340px;
+      margin-top: auto; */
+      margin: auto;
+      padding: auto;
+    }
+    
+    
