@@ -1,0 +1,49 @@
+ #box{
+    background-color: black;
+    height: 240px;
+    width: 100px;
+    border-radius: 10px;
+   
+}
+
+#red{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+   margin: 25px;
+    position: relative;
+    top: 20px;
+}
+
+#yellow{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 25px;
+    position: relative;
+    top: 20px;
+}
+
+#green{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 25px;
+    position: relative;
+    top: 20px;
+} 
+
+/*
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(hogwarts.jpg);
+    background-size: cover;
+    position: fixed ;
+    right: 0px;
+    bottom: 0px;
+} 
+    */
